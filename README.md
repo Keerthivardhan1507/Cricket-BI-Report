@@ -42,11 +42,11 @@ Data from multiple formats (ODI, T20, Test) were combined and cleaned.
 Format Slicer (ODI, T20, Test)
 Country Slicer
 Year-based filtering
-##🔹 Tools & Technologies
+## 🔹 Tools & Technologies
 
-Power BI
-Power Query
-DAX
+* Power BI
+* Power Query
+* DAX
 
 ## 🔹 Key Insights
 * Test format players generally accumulate higher total runs
