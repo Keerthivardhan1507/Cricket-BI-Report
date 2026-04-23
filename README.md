@@ -56,6 +56,7 @@ Top players maintain a balance between consistency and scoring speed
 Performance varies significantly across formats and countries
 
 🔹 Project Outcome
+
 This project demonstrates:
 Data cleaning and transformation
 Data modeling and DAX usage
